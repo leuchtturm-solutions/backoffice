@@ -1,0 +1,2 @@
+# Ignore package tarball (built via "mix hex.build").
+backoffice_admin_example-*.tar
